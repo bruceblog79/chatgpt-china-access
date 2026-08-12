@@ -2,7 +2,7 @@
 
 本文是一个面向ChatGPT使用场景的 `ChatGPT 镜像站集合` 文档，重点整理 `ChatGPT 镜像站`、`ChatGPT 镜像入口`、`ChatGPT 中文镜像`、`ChatGPT 镜像推荐` 和 `ChatGPT 国内使用` 相关信息。
 
-2026 年 7 月 28 日更新
+2026 年 8 月 12 日更新
 
 ## ChatGPT 镜像站集合目录
 
@@ -25,6 +25,7 @@
 - [www.gemini-china.org](https://www.gemini-china.org/)
 - [gemini-china.org](https://gemini-china.org/)
 - [gemini-flash.com](https://gemini-flash.com/)
+- [GPT-MIrrors.com](https://www.chatgpt-mirrors.com/chatgpt)
 
 ## ChatGPT 镜像站说明
 
